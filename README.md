@@ -13,4 +13,4 @@ https://blog.csdn.net/qq_37764141/category_11197719.html
 
 image below is redered by point cloud
 
-![image](https://github.com/zc-fly/2DPointCloud_greateFov_rebuild/tree/main/image/pt.png)
+![image](https://github.com/zc-fly/2DPointCloud_greateFov_rebuild/blob/main/image/123.png)
