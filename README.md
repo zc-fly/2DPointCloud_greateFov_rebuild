@@ -9,7 +9,7 @@
 
 **environment**:  
 CUDA == 10.0  
-opencv == 4.0.0
+opencv == 4.0.0  
 pcl == 1.9.1  
 eigen3
 
