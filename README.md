@@ -7,10 +7,10 @@
 
 **detail referrence**：Computational framework for generating large panoramic super-resolution images from localization microscopy[J]. Biomedical Optics Express, 2021, 12(8).
 
-**environment**:
-CUDA == 10.0
+**environment**:  
+CUDA == 10.0  
 opencv == 4.0.0
-pcl == 1.9.1
+pcl == 1.9.1  
 eigen3
 
 
